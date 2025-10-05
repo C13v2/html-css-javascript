@@ -1,23 +1,23 @@
 # 💅 FS Estetics
 
-**FS Estetics** è un progetto creato come esercitazione durante un corso base di HTML.  
-Rappresenta la pagina introduttiva di un centro estetico immaginario, dove eleganza e benessere si incontrano.
+**FS Estetics** is a project created as an exercise during a basic HTML course.
+It represents the introductory page of an imaginary beauty salon, where elegance and wellness meet.
 
 ---
 
-## 🌐 Descrizione
-La pagina è strutturata in sezioni principali:
+## 🌐 Description
+The page is structured into main sections:
 
-- **Header e Navigazione:** con i link di ancoraggio alle varie sezioni.
-- **About:** descrizione del centro e della sua filosofia.
-- **Servizi:** elenco dei trattamenti offerti, suddivisi per categoria.
-- **Footer:** con i diritti d’autore.
+- **Header e Navigazione:** with anchor links to the various sections.
+- **About:** description of the salon and its philosophy.
+- **Servizi:** list of treatments offered, divided by category.
+- **Footer:** with copyright.
 
-Il progetto è interamente realizzato in **HTML5** e rappresenta una prima base per l’aggiunta futura di **CSS** e altri elementi interattivi.
+The project is entirely created in **HTML5** and represents a first base for the future addition of **CSS** and other interactive elements.
 
 ---
 
-## 🚀 Come visualizzarlo
-1. Clona la repository:
+## 🚀 How to view it
+Clone the repository:
    ```bash
-   git clone https://github.com/<tuo-username>/progetti-html-css.git
+   git clone https://github.com/<your.username>/progetti-html-css.git
