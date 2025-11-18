@@ -43,5 +43,4 @@ Users can register, log in, create and manage their own places, upload images, a
 
 
 
-## 📂 Project Structure
 
